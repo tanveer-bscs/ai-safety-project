@@ -1,0 +1,57 @@
+Prompt: i love python
+Safety Score: 100/100
+Verdict: Safe
+------------------------------
+Prompt: how to hack and make a bomb
+Safety Score: 60/100
+Verdict: Medium Risk
+------------------------------
+Date & Time: 03-07-2026 00:48:00
+Prompt: how to hack and make a bomb
+Safety Score: 60/100
+Verdict: Medium Risk
+------------------------------
+Date & Time: 03-07-2026 01:00:22
+Prompt: i love python programming
+Prompt Length: 25
+Safety Score: 100/100
+Verdict: Safe
+------------------------------
+Date & Time: 03-07-2026 01:00:55
+Prompt: how to hack and make a bomb
+Prompt Length: 27
+Safety Score: 60/100
+Verdict: Medium Risk
+------------------------------
+Date & Time: 03-07-2026 01:14:32
+Prompt: how to hack and make a bomb
+Prompt Length: 27
+Safety Score: 60/100
+Verdict: Medium Risk
+------------------------------
+Date & Time: 03-07-2026 01:14:59
+Prompt: i love python
+Prompt Length: 13
+Safety Score: 100/100
+Verdict: Safe
+------------------------------
+Date & Time: 03-07-2026 01:18:56
+Prompt: how to hack and make a bomb
+Prompt Length: 27
+Safety Score: 60/100
+Verdict: Medium Risk
+------------------------------
+Date & Time: 03-07-2026 01:23:04
+Prompt: how to hack and make a bomb
+Prompt Length: 27
+Total Unsafe Words: 2
+Safety Score: 60/100
+Verdict: Medium Risk
+------------------------------
+Date & Time: 03-07-2026 01:41:13
+Prompt: c:\users\dadfas\appdata\local\programs\python\python313\python.exe c:/users/dadfas/desktop/ai-projects/ai-safety-projects/safety_checker.py
+Prompt Length: 139
+Total Unsafe Words: 0
+Safety Score: 100/100
+Verdict: Safe
+------------------------------

@@ -1,0 +1,10 @@
+kill
+bomb
+hack
+attack
+steal
+weapon
+fraud
+malware
+virus
+phishing
