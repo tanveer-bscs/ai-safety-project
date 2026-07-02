@@ -47,11 +47,3 @@ Prompt Length: 27
 Total Unsafe Words: 2
 Safety Score: 60/100
 Verdict: Medium Risk
-------------------------------
-Date & Time: 03-07-2026 01:41:13
-Prompt: c:\users\dadfas\appdata\local\programs\python\python313\python.exe c:/users/dadfas/desktop/ai-projects/ai-safety-projects/safety_checker.py
-Prompt Length: 139
-Total Unsafe Words: 0
-Safety Score: 100/100
-Verdict: Safe
-------------------------------
